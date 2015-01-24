@@ -7,4 +7,4 @@ Creating a new brancn is quick and simple.
 I'm here
 dev
 add dev2
-bug fix 101
+bug fixed 101
